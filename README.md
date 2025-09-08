@@ -67,7 +67,7 @@ User Accounts:
 
 ▪ Non-Verified Accounts Beyond 60 Days: If a user registers for a Twota account but does not successfully complete the required verification process, or fails to submit a verification request, and more than "60 calendar days" have elapsed since the date the account was created. 
 
-▪ Non-Verified and Inactive Accounts Beyond 60 Days: If a user registers for a Twota account but does not successfully complete the required verification process, or fails to submit a verification request, and has not engaged in any activity or usage of the Twota application. In such cases, Twota will classify such accounts as spam accounts and will block, suspend, or permanently delete them without prior notice.
+▪ Non-Verified and Inactive Accounts Beyond "60 Days": If a user registers for a Twota account but does not successfully complete the required verification process, or fails to submit a verification request, and has not engaged in any activity or usage of the Twota application. In such cases, Twota will classify such accounts as spam accounts and will block, suspend, or permanently delete them without prior notice.
 
 ☑ Note: Uploading altered or misleading photos for verification may result in failed verification, restrictions, or permanent suspension.
 
@@ -75,31 +75,86 @@ User Accounts:
 
 4.4 Account Pausing Paused accounts do not appear in Explore, but can use LiveChat, Mystery, and message existing friend matches.
 
-4.5 Friend Match and Message Limits ▪ Maximum active friend matches: 2 active connections ▪ Maximum messages per friend match: 28 messages
+4.5 Friend Match and Message Limits 
+
+▪ Maximum active friend matches: 2 active connections 
+
+▪ Maximum messages per friend match: 28 messages
 
 ☑ Note: If a user exceeds [Number] active friend matches, they will be unable to interact with new users or existing friend matches until they unmatch one or more to return within the permitted limit.
 
 4.6 Account Deletion You may delete your account at any time by going to Profile > Account and selecting “Delete Account”. If you signed up using an email address (not through the “Signed up with Google”), you will need to confirm your identity by entering your password. You will also be asked to answer a brief question about whether you found a partner through the app. Once confirmed, your account and all associated data will be permanently deleted.
 
-Code of Conduct You agree to: ▪ Be honest and transparent in your profile and conversations. ▪ Treat all users with respect and dignity. ▪ Refrain from impersonation, scams, or hate speech. ▪ Do not post or share private or sensitive information. ▪ Refrain from ghosting or ignoring your active friend matches.
-Anti-Ghosting Policy ▪ 1st Offense: Friendly reminder. ▪ 2nd Offense: 1-day suspension. ▪ 3rd Offense: Permanent ban.
+
+Code of Conduct You agree to: 
+
+▪ Be honest and transparent in your profile and conversations. 
+
+▪ Treat all users with respect and dignity. 
+
+▪ Refrain from impersonation, scams, or hate speech. 
+
+▪ Do not post or share private or sensitive information. 
+
+▪ Refrain from ghosting or ignoring your active friend matches.
+
+
+Anti-Ghosting Policy 
+
+▪ 1st Offense: Friendly reminder. 
+
+▪ 2nd Offense: 1-day suspension. 
+
+▪ 3rd Offense: Permanent ban.
 
 We reserve the right to enforce this policy at its discretion, based on user reports. By using the “twota”, you agree to engage with your active friend matches respectfully and refrain from ghosting.
 
-Content 6.1 User-Generated Content You are solely responsible for any content you post, share, or transmit on “twota” including text, images, voice recordings, and videos.
-6.2 Prohibited Content You must NOT upload or share content that is: ▪ Illegal, misleading, or infringing upon the rights of others. ▪ Sexually explicit or pornographic. ▪ Threatreatening, violent, abusive, or promotes hate speech. ▪ Defamatory, discriminatory, or invasive of someone’s privacy. ▪ Offensive, deceptive, or intended to deceive or harm others.
+
+Content 
+
+6.1 User-Generated Content You are solely responsible for any content you post, share, or transmit on “twota” including text, images, voice recordings, and videos.
+
+6.2 Prohibited Content You must NOT upload or share content that is: 
+
+▪ Illegal, misleading, or infringing upon the rights of others. 
+
+▪ Sexually explicit or pornographic. 
+
+▪ Threatreatening, violent, abusive, or promotes hate speech. 
+
+▪ Defamatory, discriminatory, or invasive of someone’s privacy. 
+
+▪ Offensive, deceptive, or intended to deceive or harm others.
 
 6.3 Moderation We may use AI tools and manual review to moderate or remove content; and to suspend or terminate accounts that violate our policies. Mistakes may occur, and users can appeal decisions.
 
-6.4 License to Content You retain ownership of your content but grant us a non-exclusive, royalty-free, worldwide license to use, modify, reproduce, and display it for purposes related to the app's operation, improvement, and promotion.
+6.4 License to Content You retain ownership of your content, but grant us a non-exclusive, royalty-free, worldwide license to use, modify, reproduce, and display it for purposes related to the app's operation, improvement, and promotion.
 
-6.5 Copyright Complaints (DMCA Takedown Procedure) If you believe content on “twota” infringes your copyright, please contact us at “ info@twota.ca ” with the following information: ▪ A description of the copyrighted work you claim has been infringed. ▪ A description of where the allegedly infringing content appears in the app. ▪ Your full contact information (name, address, phone number, email). ▪ A statement that you have a good faith belief that the use is not authorized by the copyright owner, its agent, or the law. ▪ A statement, made under penalty of perjury, that the information provided is accurate and that you are the copyright owner or authorized to act on their behalf. ▪ Your physical or electronic signature.
+6.5 Copyright Complaints (DMCA Takedown Procedure) If you believe content on “twota” infringes your copyright, please contact us at “ info@twota.ca ” with the following information: 
+
+▪ A description of the copyrighted work you claim has been infringed. 
+
+▪ A description of where the allegedly infringing content appears in the app. 
+
+▪ Your full contact information (name, address, phone number, email). 
+
+▪ A statement that you have a good faith belief that the use is not authorized by the copyright owner, its agent, or the law. 
+
+▪ A statement, made under penalty of perjury, that the information provided is accurate and that you are the copyright owner or authorized to act on their behalf. 
+
+▪ Your physical or electronic signature.
 
 Privacy Your use of “twota” is subject to our Privacy Policy. By using the app, you consent to our collection, use, and disclosure of your personal information as described therein (Please read carefully the "Privacy Policy" section on this page).
 
-Safety and Security 8.1 Reporting Users ▪ Only verified users can report others in Explore and LiveChat. ▪ All users can report their active friend matches directly within the chat.
+
+Safety and Security 8.1 Reporting Users 
+
+▪ Only verified users can report others in Explore and LiveChat. 
+
+▪ All users can report their active friend matches directly within the chat.
 
 8.2 Personal Safety Do not share any financial information or other sensitive personal data with other users. “twota” is not responsible for any harm, loss, or misuse that may result from such disclosures.
+
 
 8.3 Fraud and Scams We employ both automated systems and manual reviews to detect fraudulent activity. Users found in violation of our policies may be suspended or permanently removed.
 
