@@ -2,6 +2,7 @@
 
 Twota's Terms, Conditions and Privacy Policy
 
+
 Terms of Service
 
 Effective Date: July 5, 2025
@@ -27,7 +28,9 @@ Welcome to “twota” ©, a social networking app designed to help users connec
 
 ▪ Continued use after updates constitutes continued acceptance.
 
+
 We may revise these Terms at any time. Any changes will be communicated through the app or via email. By continuing to use the app after changes are made, you accept the updated Terms. If you do not agree to the updated Terms, you must stop using the app immediately.
+
 
 Arbitration Clause: By agreeing to these Terms, you waive any right to a jury trial or participation in class actions or class-wide arbitration. Arbitration will be on an individual basis only.
 
@@ -46,12 +49,14 @@ Arbitration Clause: By agreeing to these Terms, you waive any right to a jury tr
 
 ▪ Do not impersonate any person, or entity, or misrepresent your affiliation.
 
+
 We reserve the right to verify your age and identity at any time. Any violation of these requirements may result in immediate suspension or termination of your account without notice.
 
 
 User Accounts:
 
 4.1 Account Creation To use “twota”, you must create an account by providing honest, accurate and complete information, including your name, age, gender, interests, and the approximate location you would like to find the friend.
+
 
 4.2 Verification To maintain our community safe, genuine, and authentic, and also to access certain features, all users are required to verify their profile within "7 days" of registration. Failure to complete verification within this timeframe may result in account restrictions. To apply for verification: 
 
@@ -61,7 +66,9 @@ User Accounts:
 
 ▪ You may attempt verification up to “10 times”. After "10 failed attempts", your account will be limited to deletion-only access.
 
+
 🔔 Note: A "verified" badge indicates that the user's selfie has been manually reviewed and reasonably matches their profile photos. However, no verification process is entirely foolproof. Despite our efforts, some individuals may attempt to circumvent the system. Users are strongly encouraged to exercise caution and good judgment when engaging with others. “twota” does not guarantee the accuracy of any user’s identity, including those marked as verified.
+
 
 4.2.1 Account Suspension and Removal for Non-Verification To maintain the safety, integrity, and trust of the Twota community, we reserve the right to suspend or permanently disable any user account under the following circumstances:
 
@@ -69,11 +76,15 @@ User Accounts:
 
 ▪ Non-Verified and Inactive Accounts Beyond "60 Days": If a user registers for a Twota account but does not successfully complete the required verification process, or fails to submit a verification request, and has not engaged in any activity or usage of the Twota application. In such cases, Twota will classify such accounts as spam accounts and will block, suspend, or permanently delete them without prior notice.
 
+
 ☑ Note: Uploading altered or misleading photos for verification may result in failed verification, restrictions, or permanent suspension.
+
 
 4.3 Account Responsibility You are solely responsible for maintaining the confidentiality of your login credentials and for all activity that occurs under your account. Please report to us immediately any unauthorized access or use.
 
+
 4.4 Account Pausing Paused accounts do not appear in Explore, but can use LiveChat, Mystery, and message existing friend matches.
+
 
 4.5 Friend Match and Message Limits 
 
@@ -81,7 +92,9 @@ User Accounts:
 
 ▪ Maximum messages per friend match: 28 messages
 
+
 ☑ Note: If a user exceeds "2 active friend matches", they will be unable to interact with new users or existing friend matches until they unmatch one or more to return within the permitted limit.
+
 
 4.6 Account Deletion You may delete your account at any time by going to Profile > Account and selecting “Delete Account”. If you signed up using an email address (not through the “Signed up with Google”), you will need to confirm your identity by entering your password. You will also be asked to answer a brief question about whether you found a partner through the app. Once confirmed, your account and all associated data will be permanently deleted.
 
@@ -107,12 +120,14 @@ Anti-Ghosting Policy
 
 ▪ 3rd Offense: Permanent ban.
 
+
 We reserve the right to enforce this policy at its discretion, based on user reports. By using the “twota”, you agree to engage with your active friend matches respectfully and refrain from ghosting.
 
 
 Content 
 
 6.1 User-Generated Content You are solely responsible for any content you post, share, or transmit on “twota” including text, images, voice recordings, and videos.
+
 
 6.2 Prohibited Content You must NOT upload or share content that is: 
 
@@ -126,9 +141,12 @@ Content
 
 ▪ Offensive, deceptive, or intended to deceive or harm others.
 
+
 6.3 Moderation We may use AI tools and manual review to moderate or remove content; and to suspend or terminate accounts that violate our policies. Mistakes may occur, and users can appeal decisions.
 
+
 6.4 License to Content You retain ownership of your content, but grant us a non-exclusive, royalty-free, worldwide license to use, modify, reproduce, and display it for purposes related to the app's operation, improvement, and promotion.
+
 
 6.5 Copyright Complaints (DMCA Takedown Procedure) If you believe content on “twota” infringes your copyright, please contact us at “ info@twota.ca ” with the following information: 
 
@@ -244,6 +262,7 @@ Privacy Policy
 
 Effective Date: July 5, 2025
 
+
 Twota Technologies Inc. (“twota”, “we”, “us”, or “our”) is committed to respecting and protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard your personal information. By using the “twota”, you acknowledge and agree to the terms of this Policy.
 
 
@@ -314,13 +333,18 @@ How We Share Your Information We may share your information in the following cir
 
 4.1 With Other Users Your profile information (such as name, age, approximate location, photos, preferences, and bio) is visible to other users.
 
+
 4.2 With Service Providers We may share data with trusted third-party vendors who assist with hosting, analytics, customer support, and other operational services.
+
 
 4.3 For legal compliance We may disclose information if required by law, regulation, legal process, or governmental request.
 
+
 4.4 During business transfers In the event of a merger, acquisition, reorganization, or sale of assets, your information may be transferred as part of that transaction.
 
+
 4.5 In anonymized or aggregated form We may share data for research, analytics, or marketing purposes.
+
 
 ☑ Note: We never sell users' information to third parties.
 
@@ -344,7 +368,9 @@ To exercise any of these rights, please contact us at “ info@twota.ca ”. We 
 
 Security We implement industry-standard security measures, including encryption, and access controls, to protect your chats. However, no method of transmission or storage is completely secure, and we cannot guarantee absolute protection of your data.
 
+
 ▪ Data Breach Notification: In the event of a data breach involving your personal information, we will notify you and the relevant authorities as required by applicable law.
+
 
 International Data Transfers Your information may be processed and stored outside of your country of residence, including in jurisdictions that may not offer the same level of data protection. In such cases, we implement appropriate safeguards—such as Standard Contractual Clauses or equivalent measures—to ensure your data is adequately protected.
 
@@ -365,7 +391,15 @@ Contact us
 If you have any questions or concerns about these Terms of Service, Conditions and Privacy Policy, please contact us at:
 
 
-Twota Support Team: ▪ Website: www.twota.ca ▪ Email: info@twota.ca ▪ Inside the app: Profile > Contact Us ▪ Phone: (+1) 778-330-9682 (Message, WhatsApp, or Telegram)
+Twota Support Team: 
+
+▪ Website: www.twota.ca 
+
+▪ Email: info@twota.ca 
+
+▪ Inside the app: Profile > Contact Us 
+
+▪ Phone: (+1) 778-330-9682 (Message, WhatsApp, or Telegram)
 
 
 By using “twota” app, you acknowledge that you have read, understood, and agreed to these "Terms of Service and Privacy Policy".
