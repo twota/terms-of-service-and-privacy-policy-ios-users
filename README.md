@@ -1,34 +1,73 @@
 # terms-of-service-and-privacy-policy-twota-apple-store
 
-Twota's Terms of Service, Conditions and Privacy Policy
+Twota's Terms, Conditions and Privacy Policy
 
-
-------------------
-
-
-"Terms of Service"
+Terms of Service
 
 Effective Date: July 5, 2025
 
+
 Welcome to “twota” ©, a social networking app designed to help users connect, make friends, and build meaningful communities. By downloading, accessing, or using “twota”, you acknowledge and agree to be bound by the following Terms and Conditions ("Terms"). These Terms form a legally binding agreement between you and Twota Technologies Inc., a company incorporated in British Columbia, Canada (“twota”, “we”, “us”, or “our”). If you disagree with these Terms, you must not use “twota”.
 
-Introduction Twota Technologies Inc. operates the “twota” app, available on the Apple App Store and Google Play Store. The app includes the following features: ▪ "Explore": Browse users filtered by age and distance using our intelligent discovery algorithm. Connect by liking or skipping profiles — mutual likes result in a connection. ▪ "LiveChat": Connect in real-time with online users around the location the user has picked. ▪ "Mystery": A weekly anonymous friend match every Friday, showing only your name and a blurred photo. To initiate a chat, you must be a verified user. “twota” is committed to fostering respectful, safe, secure, and meaningful interactions, and may adopt or enhance features at any time without prior notice.
 
-Acceptance of Terms By using the “twota”, you confirm that: ▪ You have read, understood, and accepted these Terms. ▪ These Terms constitute a legally binding agreement. ▪ Continued use after updates constitutes continued acceptance.
+1. Introduction Twota Technologies Inc. operates the “twota” app, available on the Apple App Store and Google Play Store. The app includes the following features: 
+
+▪ "Explore": Browse users filtered by age and distance using our intelligent discovery algorithm. Connect by liking or skipping profiles — mutual likes result in a connection. 
+
+▪ "LiveChat": Connect in real-time with online users around the location user has picked. 
+
+▪ "Mystery": A weekly anonymous friend match every Friday, showing only your name and a blurred photo. To initiate a chat, you must be a verified user. “twota” is committed to fostering respectful, safe, secure, and meaningful interactions, and may adopt or enhance features at any time without prior notice.
+
+
+2. Acceptance of Terms By using the “twota”, you confirm that: 
+
+▪ You have read, understood, and accepted these Terms. 
+
+▪ These Terms constitute a legally binding agreement. 
+
+▪ Continued use after updates constitutes continued acceptance.
 
 We may revise these Terms at any time. Any changes will be communicated through the app or via email. By continuing to use the app after changes are made, you accept the updated Terms. If you do not agree to the updated Terms, you must stop using the app immediately.
 
 Arbitration Clause: By agreeing to these Terms, you waive any right to a jury trial or participation in class actions or class-wide arbitration. Arbitration will be on an individual basis only.
 
-Eligibility To use “twota”, you must: ▪ Be at least 18 years old. ▪ Be legally capable of entering into binding agreements. ▪ Comply with all applicable local, provincial, federal, and international laws. ▪ Provide truthful, accurate and up-to-date information in your profile and chats. ▪ Not been previously banned or removed from our services. ▪ Do not impersonate any person, or entity, or misrepresent your affiliation.
+
+3. Eligibility To use “twota”, you must: 
+
+▪ Be at least 18 years old. 
+
+▪ Be legally capable of entering into binding agreements. 
+
+▪ Comply with all applicable local, provincial, federal, and international laws. 
+
+▪ Provide truthful, accurate and up-to-date information in your profile and chats. 
+
+▪ Not been previously banned or removed from our services. 
+
+▪ Do not impersonate any person, or entity, or misrepresent your affiliation.
+
 We reserve the right to verify your age and identity at any time. Any violation of these requirements may result in immediate suspension or termination of your account without notice.
 
-User Accounts 4.1 Account Creation To use “twota”, you must create an account by providing honest, accurate and complete information, including your name, age, gender, interests, and the approximate location you would like to find the friend.
-4.2 Verification To maintain our community safe, genuine, and authentic, and also to access certain features, all users are required to verify their profile within "7 days" of registration. Failure to complete verification within this timeframe may result in account restrictions. To apply for verification: ▪ Submit a clear, well-lit selfie showing your face centered and unobstructed. ▪ All profile photos must feature you and be taken within the past "2 years". ▪ You may attempt verification up to “10 times”. After [Number] failed attempts, your account will be limited to deletion-only access.
+
+User Accounts:
+
+4.1 Account Creation To use “twota”, you must create an account by providing honest, accurate and complete information, including your name, age, gender, interests, and the approximate location you would like to find the friend.
+
+4.2 Verification To maintain our community safe, genuine, and authentic, and also to access certain features, all users are required to verify their profile within "7 days" of registration. Failure to complete verification within this timeframe may result in account restrictions. To apply for verification: 
+
+▪ Submit a clear, well-lit selfie showing your face centered and unobstructed. 
+
+▪ All profile photos must feature you and be taken within the past "2 years". 
+
+▪ You may attempt verification up to “10 times”. After "10 failed attempts", your account will be limited to deletion-only access.
 
 🔔 Note: A "verified" badge indicates that the user's selfie has been manually reviewed and reasonably matches their profile photos. However, no verification process is entirely foolproof. Despite our efforts, some individuals may attempt to circumvent the system. Users are strongly encouraged to exercise caution and good judgment when engaging with others. “twota” does not guarantee the accuracy of any user’s identity, including those marked as verified.
 
-4.2.1 Account Suspension and Removal for Non-Verification To maintain the safety, integrity, and trust of the Twota community, we reserve the right to suspend or permanently disable any user account under the following circumstances: ▪ Non-Verified Accounts Beyond 60 Days: If a user registers for a Twota account but does not successfully complete the required verification process, or fails to submit a verification request, and more than [Number] calendar days have elapsed since the date the account was created. ▪ Non-Verified and Inactive Accounts Beyond 60 Days: If a user registers for a Twota account but does not successfully complete the required verification process, or fails to submit a verification request, and has not engaged in any activity or usage of the Twota application. In such cases, Twota will classify such accounts as spam accounts and will block, suspend, or permanently delete them without prior notice.
+4.2.1 Account Suspension and Removal for Non-Verification To maintain the safety, integrity, and trust of the Twota community, we reserve the right to suspend or permanently disable any user account under the following circumstances:
+
+▪ Non-Verified Accounts Beyond 60 Days: If a user registers for a Twota account but does not successfully complete the required verification process, or fails to submit a verification request, and more than "60 calendar days" have elapsed since the date the account was created. 
+
+▪ Non-Verified and Inactive Accounts Beyond 60 Days: If a user registers for a Twota account but does not successfully complete the required verification process, or fails to submit a verification request, and has not engaged in any activity or usage of the Twota application. In such cases, Twota will classify such accounts as spam accounts and will block, suspend, or permanently delete them without prior notice.
 
 ☑ Note: Uploading altered or misleading photos for verification may result in failed verification, restrictions, or permanent suspension.
 
