@@ -1,4 +1,4 @@
-# terms-of-service-and-privacy-policy-twota-apple-store
+# terms-of-service-and-privacy-policy-apple-store
 
 Twota's Terms, Conditions and Privacy Policy
 
