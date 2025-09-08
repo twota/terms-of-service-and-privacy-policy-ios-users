@@ -81,7 +81,7 @@ User Accounts:
 
 ▪ Maximum messages per friend match: 28 messages
 
-☑ Note: If a user exceeds [Number] active friend matches, they will be unable to interact with new users or existing friend matches until they unmatch one or more to return within the permitted limit.
+☑ Note: If a user exceeds "2 active friend matches", they will be unable to interact with new users or existing friend matches until they unmatch one or more to return within the permitted limit.
 
 4.6 Account Deletion You may delete your account at any time by going to Profile > Account and selecting “Delete Account”. If you signed up using an email address (not through the “Signed up with Google”), you will need to confirm your identity by entering your password. You will also be asked to answer a brief question about whether you found a partner through the app. Once confirmed, your account and all associated data will be permanently deleted.
 
@@ -144,6 +144,7 @@ Content
 
 ▪ Your physical or electronic signature.
 
+
 Privacy Your use of “twota” is subject to our Privacy Policy. By using the app, you consent to our collection, use, and disclosure of your personal information as described therein (Please read carefully the "Privacy Policy" section on this page).
 
 
@@ -153,38 +154,91 @@ Safety and Security 8.1 Reporting Users
 
 ▪ All users can report their active friend matches directly within the chat.
 
+
 8.2 Personal Safety Do not share any financial information or other sensitive personal data with other users. “twota” is not responsible for any harm, loss, or misuse that may result from such disclosures.
 
 
 8.3 Fraud and Scams We employ both automated systems and manual reviews to detect fraudulent activity. Users found in violation of our policies may be suspended or permanently removed.
 
-8.4 Zero-Tolerance Policy “twota” enforces a zero-tolerance policy against: ▪ Underage users. ▪ Fake profiles or scams. ▪ Harassment, abuse, or discrimination.
+
+8.4 Zero-Tolerance Policy “twota” enforces a zero-tolerance policy against: 
+
+▪ Underage users. 
+
+▪ Fake profiles or scams. 
+
+▪ Harassment, abuse, or discrimination.
+
 
 Termination We reserve the right to suspend or terminate any account for violations of our policies or at our sole discretion. Termination will result in the loss of all access to the app and its features.
 
-Disclaimers ▪ “twota” is provided on an “as is” basis with no guarantees. ▪ Friend Matches and recommendations are not guaranteed. ▪ Content or advice is not professional or legal advice. ▪ No background checks are conducted on users. ▪ We do not guarantee uninterrupted, completely secure, or error-free service. ▪ “twota” may utilize automated systems and artificial intelligence (AI) to assist with moderation and friend matchmaking. These systems are continuously reviewed and improved but are not guaranteed to be flawless.
 
-Limitation of Liability To the fullest extent permitted by law, “twota” disclaims all liability for: ▪ Loss of profits, data, or other intangible losses. ▪ User conduct or interactions, whether online or offline. ▪ Any indirect, incidental, consequential, or punitive damages arising from the use of the app.
+Disclaimers 
 
-Dispute Resolution and Governing Law ▪ These Terms are governed by the laws of British Columbia, Canada. ▪ Any disputes will be resolved through binding arbitration in Vancouver, in accordance with the rules of the Canadian Arbitration Association. ▪ Class actions and class-wide arbitrations are not permitted. ▪ You may opt out of arbitration by submitting written notice within 30 business days of accepting these Terms.
+▪ “twota” is provided on an “as is” basis with no guarantees. 
+
+▪ Friend Matches and recommendations are not guaranteed. 
+
+▪ Content or advice is not professional or legal advice. 
+
+▪ No background checks are conducted on users. 
+
+▪ We do not guarantee uninterrupted, completely secure, or error-free service. 
+
+▪ “twota” may utilize automated systems and artificial intelligence (AI) to assist with moderation and friend matchmaking. These systems are continuously reviewed and improved but are not guaranteed to be flawless.
+
+
+Limitation of Liability To the fullest extent permitted by law, “twota” disclaims all liability for: 
+
+▪ Loss of profits, data, or other intangible losses. 
+
+▪ User conduct or interactions, whether online or offline. 
+
+▪ Any indirect, incidental, consequential, or punitive damages arising from the use of the app.
+
+
+Dispute Resolution and Governing Law 
+
+▪ These Terms are governed by the laws of British Columbia, Canada. 
+
+▪ Any disputes will be resolved through binding arbitration in Vancouver, in accordance with the rules of the Canadian Arbitration Association. 
+
+▪ Class actions and class-wide arbitrations are not permitted. 
+
+▪ You may opt out of arbitration by submitting written notice within 30 business days of accepting these Terms.
+
 
 Intellectual Property All content within the app — excluding certain fonts, icons and images — is the intellectual property of Twota Technologies Inc. Any reproduction, distribution, or reuse of this content without prior written consent is strictly prohibited.
 
+
 13.1 Images/Icons Attribution Notice Some images/icons used in “twota” are sourced from third-party libraries and are subject to their respective licenses. Full attribution and licensing details can be found at: https://github.com/twota/attributions
+
 
 Third-Party Links “twota” may contain links to third-party websites or services, which are provided solely for your convenience. We do not endorse and are not responsible for the content, privacy practices, or operations of any third-party websites or services. Accessing these links is at your own risk.
 
+
 Indemnification You agree to indemnify, defend, and hold harmless Twota Technologies Inc., along with its affiliates, officers, directors, employees, and agents from any claims, liabilities, damages, losses, or expenses—including reasonable legal fees—arising out of or related to your use of the app or any violation of these Terms.
+
 
 Force Majeure We are not liable for any delay or failure to perform resulting from causes beyond our reasonable control, including but not limited to natural disasters, internet outages, power failures, labor disputes, acts of government, or other unforeseen events.
 
+
 No Waiver Failure to enforce any provision of these Terms shall not be deemed a waiver of our right to enforce that provision or any other provision at a later time.
+
 
 Severability If any provision of these Terms is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
 
+
 Changes to the Service We may modify or discontinue features without prior notice. We are not liable for service changes.
 
+
 Feedback and Suggestions Any feedback or suggestions submitted by you become our property. We may use them without compensation.
+
+
+
+----------------------------------------------------------
+
+
 
 Privacy Policy
 
@@ -192,20 +246,72 @@ Effective Date: July 5, 2025
 
 Twota Technologies Inc. (“twota”, “we”, “us”, or “our”) is committed to respecting and protecting your privacy. This Privacy Policy outlines how we collect, use, and safeguard your personal information. By using the “twota”, you acknowledge and agree to the terms of this Policy.
 
-Information We Collect 1.1 Information You Provide Directly ▪ Name, age, gender, email, and the location you want to find the friend. ▪ Profile details such as photos, bio, preferences, and sexual orientation. ▪ Selfies submitted for verification purposes. ▪ Messages and chat content exchanged with other friend matched users. ▪ Feedback, surveys, or user experience research.
-1.2 Information Collected Automatically ▪ Device information (e.g., IMEI, MAC address, IP address, Operating System, device model, and unique device identifiers). ▪ App usage data and interaction patterns. ▪ Approximate location based on IP or device settings.
 
-1.3 Information from Third Parties ▪ Linked social media accounts, if you choose to connect them. ▪ Analytics providers that help us understand app usage and performance. ▪ Advertising networks for ad delivery and measurement purposes.
+Information We Collect 1.1 Information You Provide Directly 
+
+▪ Name, age, gender, email, and the location you want to find the friend. 
+
+▪ Profile details such as photos, bio, preferences, and sexual orientation. 
+
+▪ Selfies submitted for verification purposes. 
+
+▪ Messages and chat content exchanged with other friend matched users. 
+
+▪ Feedback, surveys, or user experience research.
+
+
+1.2 Information Collected Automatically 
+
+▪ Device information (e.g., IMEI, MAC address, IP address, Operating System, device model, and unique device identifiers). 
+
+▪ App usage data and interaction patterns. 
+
+▪ Approximate location based on IP or device settings.
+
+
+1.3 Information from Third Parties 
+
+▪ Linked social media accounts, if you choose to connect them. 
+
+▪ Analytics providers that help us understand app usage and performance. 
+
+▪ Advertising networks for ad delivery and measurement purposes.
+
 
 ☑ Note: We do not collect biometric or health data.
 
-Legal Basis for Processing Depending on your jurisdiction, we process your personal data under one or more of the following legal bases: ▪ Your consent. ▪ The performance of a contract with you. ▪ Compliance with legal obligations. ▪ Our legitimate interests, provided they are not overridden by your rights.
 
-How We Use Your Information We use your information for the following purposes: ▪ To create, manage, and maintain your account. ▪ To provide matchmaking and connection features. ▪ To communicate important updates. ▪ To monitor and analyze usage patterns and detect fraud or misuse. ▪ To comply with applicable legal and regulatory obligations. ▪ To conduct research and development for new features and services.
+Legal Basis for Processing Depending on your jurisdiction, we process your personal data under one or more of the following legal bases: 
+
+▪ Your consent. 
+
+▪ The performance of a contract with you. 
+
+▪ Compliance with legal obligations. 
+
+▪ Our legitimate interests, provided they are not overridden by your rights.
+
+
+How We Use Your Information We use your information for the following purposes: 
+
+▪ To create, manage, and maintain your account. 
+
+▪ To provide matchmaking and connection features. 
+
+▪ To communicate important updates. 
+
+▪ To monitor and analyze usage patterns and detect fraud or misuse. 
+
+▪ To comply with applicable legal and regulatory obligations. 
+
+▪ To conduct research and development for new features and services.
+
 
 We may also use automated decision-making or profiling tools to support user safety, content moderation, and personalized recommendations. These systems are periodically reviewed to ensure they operate fairly, accurately, and without bias.
 
+
 How We Share Your Information We may share your information in the following circumstances:
+
 4.1 With Other Users Your profile information (such as name, age, approximate location, photos, preferences, and bio) is visible to other users.
 
 4.2 With Service Providers We may share data with trusted third-party vendors who assist with hosting, analytics, customer support, and other operational services.
@@ -218,30 +324,53 @@ How We Share Your Information We may share your information in the following cir
 
 ☑ Note: We never sell users' information to third parties.
 
+
 Data Retention We retain data as needed for operations, legal obligations, and fraud prevention. Personal data is deleted right away after account deletion. But if the user has been blocked, their data will be deleted within 160 business days of the account being blocked.
 
-Your Rights and Choices Depending on your jurisdiction, you may have the right to: ▪ Access/update/delete account information. ▪ Request a copy of your data if you have not deleted your profile (data portability). ▪ Restrict or object to certain types of data processing. ▪ Withdraw your consent at any time (where applicable).
+
+Your Rights and Choices Depending on your jurisdiction, you may have the right to: 
+
+▪ Access/update/delete account information. 
+
+▪ Request a copy of your data if you have not deleted your profile (data portability). 
+
+▪ Restrict or object to certain types of data processing. 
+
+▪ Withdraw your consent at any time (where applicable).
+
 
 To exercise any of these rights, please contact us at “ info@twota.ca ”. We will respond to all verified requests within 30 business days.
 
+
 Security We implement industry-standard security measures, including encryption, and access controls, to protect your chats. However, no method of transmission or storage is completely secure, and we cannot guarantee absolute protection of your data.
+
 ▪ Data Breach Notification: In the event of a data breach involving your personal information, we will notify you and the relevant authorities as required by applicable law.
 
 International Data Transfers Your information may be processed and stored outside of your country of residence, including in jurisdictions that may not offer the same level of data protection. In such cases, we implement appropriate safeguards—such as Standard Contractual Clauses or equivalent measures—to ensure your data is adequately protected.
 
+
 Children’s Privacy “twota” is intended for users aged 18 and older. We do not knowingly collect personal information from individuals under the age of 18. If we become aware that a minor has created an account or provided personal data, we will take immediate steps to delete the account and associated information.
+
 
 Third-Party Links “twota” may contain links to third-party websites or services. We are not responsible for the privacy practices, content, or policies of these third parties. We encourage you to review their privacy policies before providing any personal information.
 
+
 ▪ Do Not Track (DNT) Signals: Our systems do not currently recognize or respond to "Do Not Track" signals sent by browsers. To manage tracking preferences, please consult your browser settings.
+
 
 Policy Updates We may revise this Privacy Policy at any time. Any changes will be communicated through the app or via email. By accepting the updated Privacy Policy, you may continue using the app; otherwise, you must stop using it. Continued use after updates means acceptance.
 Contact us
 
+
 If you have any questions or concerns about these Terms of Service, Conditions and Privacy Policy, please contact us at:
+
 
 Twota Support Team: ▪ Website: www.twota.ca ▪ Email: info@twota.ca ▪ Inside the app: Profile > Contact Us ▪ Phone: (+1) 778-330-9682 (Message, WhatsApp, or Telegram)
 
+
 By using “twota” app, you acknowledge that you have read, understood, and agreed to these "Terms of Service and Privacy Policy".
 
+
 Thank you for choosing “twota”!
+
+
