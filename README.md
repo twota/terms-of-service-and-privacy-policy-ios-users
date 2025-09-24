@@ -397,7 +397,7 @@ Twota Support Team:
 
 ▪ Email: info@twota.ca 
 
-▪ Inside the app: Profile > Contact Us 
+▪ Inside the app: Profile > About Us > Contact Us 
 
 ▪ Phone: (+1) 778-330-9682 (Message, WhatsApp, or Telegram)
 
